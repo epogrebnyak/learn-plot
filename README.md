@@ -5,7 +5,7 @@ Goals:
 ------
 
 - [ ] sort out code written at different time for plotting
-- [ ] adopt fat declarative plotting with altair 
+- [ ] adopt fast declarative plotting with altair 
 - [ ] list videos about plotting
 
 Videos:
